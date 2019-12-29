@@ -3,7 +3,7 @@ The project is based on Image Processing techiques as Feature Extraction and Con
 
 As a result the program is capable of recognizing about 4 gestures of English Sign Language alphabet:
 
-(А, B, C, O)
+(А, B, C)
 
 
 The program was tested on Windows 10.
